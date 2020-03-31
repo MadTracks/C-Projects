@@ -1,0 +1,6 @@
+Bir sayinin arkadas sayisini bulur.
+
+Kullanimi:
+Terminal'e arkadasi bulunacak sayi girilir.
+
+Berke Süslü
